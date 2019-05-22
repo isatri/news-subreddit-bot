@@ -6,4 +6,4 @@ A bot that searches news websites and posts wanted articles to a subreddit. The 
 - praw
 
 ## TO DO
-Specificy exception type in function 'posted'
+Specificy exception type in function 'post_to_reddit'.
